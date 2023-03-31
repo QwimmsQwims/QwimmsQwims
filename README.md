@@ -16,7 +16,7 @@ This page will come with particularities and will be related in some way to the 
 
 Here you can see it, in the example.
 
-![https://github.com/mouredev](https://github.com/QwimmsQwims/QwimmsQwims/blob/013fefb5a9017dbe41e5901247cca2a2a9875e12/Primera%20Parte%20Web113.png)
+![](https://github.com/QwimmsQwims/QwimmsQwims/blob/013fefb5a9017dbe41e5901247cca2a2a9875e12/Primera%20Parte%20Web113.png)
 
 
 ### Where can I buy it? 
