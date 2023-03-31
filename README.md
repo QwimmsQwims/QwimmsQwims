@@ -1,6 +1,6 @@
-# Qwims 🦾
+# Qwims ![https://github.com/mouredev](https://github.com/QwimmsQwims/QwimmsQwims/blob/12e9c6aa8c70c0b0d093fa5858349dd8ff334e8b/Primera%20Parte%20Web113.png)
 
-### What is Qwims? 
+### What is Qwims? 🦾
 
 Qwims is a secondary token, with the purpose of raising funds, for the creation of a more solid Official Token and the creation of a particular pixel page.
 
