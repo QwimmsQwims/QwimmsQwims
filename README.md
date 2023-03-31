@@ -4,7 +4,7 @@
 
 Qwims is a secondary token, with the purpose of raising funds, for the creation of a more solid Official Token and the creation of a particular pixel page.
 
-There will be 100,000,000 tokens in total, where [**70%**] of the tokens will be for the community and 30% for the collection.
+There will be 100,000,000 tokens in total, where [**70%**]() of the tokens will be for the community and 30% for the collection.
 
 ### What will come in the new cryptocurrency?
 
