@@ -37,4 +37,4 @@ Some benefits to come, in the official token and other products, where we will g
 
 There are 2 reasons, the first reason is that our token is too new, which we do not meet some minimum requirements to list it and the second reason is the too high costs, from some exchanges that charge high fees to list a token.
 
-![https://github.com/mouredev](https://github.com/QwimmsQwims/QwimmsQwims/blob/ee10de460f553c3ad25574a2766b4caa36660fe4/Sprite-0001.png)
+![https://github.com/mouredev](https://github.com/QwimmsQwims/QwimmsQwims/blob/9ab9316af4c4700d0b4c2b510f0a4566e0650617/Sprite-0002.png)
