@@ -1,4 +1,4 @@
-# Qwims ![https://github.com/mouredev](https://github.com/QwimmsQwims/QwimmsQwims/blob/12e9c6aa8c70c0b0d093fa5858349dd8ff334e8b/Primera%20Parte%20Web113.png)
+# Qwims ![https://github.com/mouredev](https://github.com/QwimmsQwims/QwimmsQwims/blob/ee10de460f553c3ad25574a2766b4caa36660fe4/Sprite-0001.png)
 
 ### What is Qwims? 🦾
 
