@@ -33,4 +33,7 @@ The token will continue to exist normally, when the objectives have already been
 Be among the first to buy our token
 Some benefits to come, in the official token and other products, where we will give more details later.
 
+### Why is it not published on coinmarketcap and the most famous exchanges?
+There are 2 reasons, the first reason is that our token is too new, which we do not meet some minimum requirements to list it and the second reason is the too high costs, from some exchanges that charge high fees to list a token.
+
 
