@@ -1,4 +1,4 @@
-# Qwims
+# Qwims 🦾
 
 ### What is Qwims?
 
