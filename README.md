@@ -1,6 +1,6 @@
 # Qwims
 
-¿Qué es Qwims?
+### ¿Qué es Qwims?
 Qwims es un token secundario, con la finalidad de recaudar fondos, para creación de un Token Oficial más sólido y la creación de una página pixel particular.
 
 Habrá 100,000,000 de token en total, donde 70% de los token serán para la comunidad y el 30% para la recaudación.
