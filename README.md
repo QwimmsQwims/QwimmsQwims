@@ -31,10 +31,9 @@ Here you can see it, in the example.
 
 The token will continue to exist normally, when the objectives have already been achieved.
 
+### And how can this benefit me by supporting this project?
 
-### And how can this benefit by supporting the project? 
-
-Be among the first to buy our token
+Be among the first to buy our token.
 Some benefits to come, in the official token and other products, where we will give more details later.
 
 ### Why is it not published on coinmarketcap and the most famous exchanges? 
