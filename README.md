@@ -34,6 +34,7 @@ The token will continue to exist normally, when the objectives have already been
 ### And how can this benefit me by supporting this project?
 
 Be among the first to buy our token.
+
 Some benefits to come, in the official token and other products, where we will give more details later.
 
 ### Why is it not published on coinmarketcap and the most famous exchanges? 
