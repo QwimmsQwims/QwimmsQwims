@@ -10,6 +10,10 @@ There will be 100,000,000 tokens in total, where [**70%**]() of the tokens will 
 
 At the moment we are still developing it, very soon we will be publishing all the information about this new token, on an official page.
 
+### Is the secondary token the same as the official token?
+
+It is not the same token, the secondary one is the one we are going to launch, to raise funds to create a new official token with better features, and with a better budget.
+
 ### What does it have to do with the pixel page here? 
 
 This page will come with particularities and will be related in some way to the official page of the new token.
