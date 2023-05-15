@@ -25,7 +25,7 @@ Here you can see it, in the example.
 
 ### Where can I buy it? 
 
-
+Right now, we haven't officially launched it, for some reasons, but we hope to launch it this year.
 
 ### What will happen to the token if the goal is reached? 
 
